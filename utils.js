@@ -64,5 +64,5 @@ module.exports = {
   getQuotes: getQuotes,
   addQuotes: addQuotes,
   updateData: updateData,
-  removeElement, removeElement
+  removeElement: removeElement
 };
